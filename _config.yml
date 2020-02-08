@@ -1,23 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@pluie7dev 
-pluie7dev
-/
-honeylapin
-1
-00
- Code Pull requests 0 Actions Projects 0 Security Insights Settings
-honeylapin/_config.yml
-@pluie7dev pluie7dev Update _config.yml
-7ae7549 in 3 minutes
-287 lines (242 sloc)  7.98 KB
-  
 
 disqus_ID : disqus_vvvEQyTWgg
 # Welcome to Jekyll!
@@ -305,17 +286,3 @@ defaults:
       related: true
       
     
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
-theme: jekyll-theme-cayman
